@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m6fx6byry6psdlje?svg=true)](https://ci.appveyor.com/project/ChukharevIlya/javaqagradlepatterns2)
